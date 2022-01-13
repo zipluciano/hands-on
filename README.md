@@ -1,1 +1,1 @@
-# MasterClassJavaScript
+# Hands on
