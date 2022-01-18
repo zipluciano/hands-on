@@ -34,5 +34,5 @@ form.addEventListener("submit", (event) => {
     bookWrapper.appendChild(isbnTag);
     bookWrapper.appendChild(precoTag);
 
-    setTimeout(() => prompt("Hello"), 1000);
+    // setTimeout(() => prompt("Hello"), 1000);
 });
